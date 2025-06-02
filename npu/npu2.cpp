@@ -1,1 +1,1 @@
-test2 npu
+test2 npu xxx
